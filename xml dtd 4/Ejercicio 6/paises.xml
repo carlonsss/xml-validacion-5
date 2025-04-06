@@ -1,0 +1,24 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [paises] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paises SYSTEM "paises.dtd">
+
+<paises>
+    <pais>
+        <nombre>España</nombre>
+        <unionEuropea />
+        <otan />
+    </pais>
+    <pais>
+        <nombre>Noruega</nombre>
+        <otan />
+    </pais>
+    <pais>
+        <nombre>Austria</nombre>
+        <unionEuropea />
+    </pais>
+</paises>

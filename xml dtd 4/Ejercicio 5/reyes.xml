@@ -1,0 +1,26 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [reyes] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reyes SYSTEM "reyes.dtd">
+
+<reyesEspañoles>
+    <rey>
+        <nombre>Felipe III</nombre>
+        <padre>Felipe II</padre>
+        <madre>Ana de Austria</madre>
+    </rey>
+    <reina>
+        <nombre>Juana la Loca</nombre>
+        <padre>Fernando el Católico</padre>
+        <madre>Isabel la Católica</madre>
+    </reina>
+    <rey>
+        <nombre>Carlos I</nombre>
+        <padre>Felipe el Hermoso</padre>
+        <madre>Juana la Loca</madre>
+    </rey>
+</reyesEspañoles>

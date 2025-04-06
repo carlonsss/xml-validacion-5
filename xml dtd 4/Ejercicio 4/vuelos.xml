@@ -1,0 +1,19 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [vuelos] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vuelos SYSTEM "vuelos.dtd">
+
+<vuelos>
+    <vuelo>
+        <origen>Valencia (VLC)</origen>
+        <destino>Londres Heathrow (LHR)</destino>
+    </vuelo>
+    <vuelo>
+        <origen>Paris Charles de Gaulle (CDG)</origen>
+        <destino>Berlin Schönefeld (SFX)</destino>
+    </vuelo>
+</vuelos>

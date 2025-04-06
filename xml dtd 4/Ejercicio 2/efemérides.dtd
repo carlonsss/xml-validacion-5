@@ -1,0 +1,4 @@
+<!ELEMENT efemerides (efemeride+)>
+<!ELEMENT efemeride (fecha, hecho)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT hecho (#PCDATA)>

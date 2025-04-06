@@ -1,0 +1,4 @@
+<!ELEMENT aeropuertos (aeropuerto+)>
+<!ELEMENT aeropuerto (nombre, cerrado)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT cerrado (#PCDATA)>
